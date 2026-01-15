@@ -1,4 +1,0 @@
-• West region has the highest sales.
-• South region shows lower profitability.
-• Sales show seasonal patterns across months.
-• A few products contribute major revenue.
